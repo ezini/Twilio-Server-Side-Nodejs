@@ -2,7 +2,7 @@
 Simple example of a Server Side Twilio js file to send call to a specific number determined by the Url GET parameter.
 
 # Example:
-If you have set up the server correctly, you should be able to send call. Let's analyze the following url:
+If you have set up the server correctly (the js file), you should be able to send call. Let's analyze the following url:
 
 http://localhost:8080/?phoneNumber=+XXXXXXXXXXX
 
