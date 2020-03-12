@@ -13,3 +13,5 @@ In this case the server run on a local host (http://localhost:8080), but this ca
 # Conclusion
 
 if we setup all correctly when we digit on the browser the http://localhost:8080/?phoneNumber=+XXXXXXXXXXX url, the server will receive the request and the call will be forwarded to the specified number.
+
+To start the server: node server.js
